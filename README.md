@@ -1,0 +1,2 @@
+# flagview
+Flag every country
